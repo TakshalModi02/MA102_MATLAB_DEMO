@@ -1,6 +1,6 @@
 % Given matrices A and B of the same size
-A = rand(3); % Example matrix A
-B = rand(3); % Example matrix B
+A % Generate a random matrix A
+B % Generate a random matrix B
 
 % Concatenate A and B column-wise
 col_A = colspace(sym(A));

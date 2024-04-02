@@ -1,5 +1,5 @@
 % Define the matrix A (example)
-A = [2 1; 1 2]; % You can replace this with your own matrix
+A = ; % You can replace this with your own matrix
 
 % Create a grid of points in the input space
 [X, Y] = meshgrid(-5:0.5:5, -5:0.5:5); % Define the range and spacing of points

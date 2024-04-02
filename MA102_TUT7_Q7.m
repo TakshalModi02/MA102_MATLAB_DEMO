@@ -1,5 +1,5 @@
 % Given matrix A
-A = [5, -5; 1, 1];
+A = % You can replace this with your own matrix
 
 % Find eigenvalues and eigenvectors of A
 [V, D] = eig(A);
