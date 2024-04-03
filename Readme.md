@@ -17,7 +17,7 @@ B = transpose(A)
 
 Commands:
 ```matlab 
-B = rrrf(A) 
+B = rref(A) 
 ```
 
 ## Linsolve: Ax = B
@@ -62,3 +62,7 @@ Commands:
 ```matlab
 [V,D] = eig(A)
 ```
+
+Follow creators:\
+Takshal Modi [link](https://github.com/TakshalModi02)\
+Varun Vilvadrinath [link](https://github.com/varunvilva)
